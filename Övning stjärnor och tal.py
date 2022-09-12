@@ -11,6 +11,6 @@ while True:
     except ValueError:
 
         for i in numbers:
-            print(i, "|", stars[i], end=" ")
+            print(i, "|", stars[i])
         break
 
